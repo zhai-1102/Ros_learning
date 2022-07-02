@@ -1,0 +1,2 @@
+tf01_static:tf02_dynamic:tf03_1_2
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/rosbot/demo4/devel -DCMAKE_INSTALL_PREFIX=/home/rosbot/demo4/install -G Unix Makefiles

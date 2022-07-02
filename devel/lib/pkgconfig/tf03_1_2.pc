@@ -1,0 +1,8 @@
+prefix=/home/rosbot/demo4/devel
+
+Name: tf03_1_2
+Description: Description of tf03_1_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
